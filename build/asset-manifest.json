@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.342e7870.css",
-    "main.js": "/static/js/main.cf664826.js",
+    "main.css": "/static/css/main.978632f2.css",
+    "main.js": "/static/js/main.ac1a034a.js",
+    "static/media/slide2.jpg": "/static/media/slide2.398061fa35f5f506951a.jpg",
+    "static/media/Sherlock-Holmes.jpg": "/static/media/Sherlock-Holmes.e951b61bbaaebf7cc4ff.jpg",
+    "static/media/sliding1.jpg": "/static/media/sliding1.981c58067dc5b038c8de.jpg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/index.html",
-    "main.342e7870.css.map": "/static/css/main.342e7870.css.map",
-    "main.cf664826.js.map": "/static/js/main.cf664826.js.map"
+    "main.978632f2.css.map": "/static/css/main.978632f2.css.map",
+    "main.ac1a034a.js.map": "/static/js/main.ac1a034a.js.map"
   },
   "entrypoints": [
-    "static/css/main.342e7870.css",
-    "static/js/main.cf664826.js"
+    "static/css/main.978632f2.css",
+    "static/js/main.ac1a034a.js"
   ]
 }
